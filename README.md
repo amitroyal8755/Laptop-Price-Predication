@@ -19,7 +19,7 @@ Link: [https://laptop-mramit.herokuapp.com/](https://laptop-mramit.herokuapp.com
 [![](https://imgur.com/jUfxDs3.png)](https://laptop-mramit.herokuapp.com/)
 
 ## Overview
-This is a Flask web app which predicts fare of Flight ticket.
+This is a Streamlit web app which predicts Laptop price in india.
 
 
 ## Installation
@@ -35,14 +35,14 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
+├── laptop.ipynb
+├── laptop_data
+├── pipe_3.pkl
+├── setup
+├── .gitignore
 ├── requirements.txt
 ```
 
@@ -50,7 +50,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src=""http://www.w3.org/2000/svg"" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Bug / Feature Request
