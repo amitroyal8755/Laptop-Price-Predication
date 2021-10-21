@@ -50,7 +50,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src=""https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"" width=170>](https://flask.palletsprojects.com/en/1.1.x/)[<img target="_blank" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" width=280>](https://pandas.pydata.org/)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src=""https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"" width=170>](https://flask.palletsprojects.com/en/1.1.x/)[<img target="_blank" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" width=280>](https://pandas.pydata.org/)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Bug / Feature Request
