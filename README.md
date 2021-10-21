@@ -14,6 +14,9 @@
 Link: [https://laptop-mramit.herokuapp.com/](https://laptop-mramit.herokuapp.com/)
 
 [![](https://imgur.com/7PFNhuZ.png)](https://laptop-mramit.herokuapp.com/)
+[![](https://imgur.com/NTasfYt.png)](https://laptop-mramit.herokuapp.com/)
+[![](https://imgur.com/nfPqBMM.png)](https://laptop-mramit.herokuapp.com/)
+[![](https://imgur.com/jUfxDs3.png)](https://laptop-mramit.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
